@@ -3,7 +3,7 @@ namespace GameTOP.Interface
 
     public interface iJogador
     {
-         string Correr();
+         string Correr(); 
          string Chutar();
          string Passe();
     }
